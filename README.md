@@ -24,6 +24,9 @@
 - [Microservices by Martin Fowler](https://martinfowler.com/articles/microservices.html)
 - [Pattern: Saga](https://microservices.io/patterns/data/saga.html)
 - [12 factor apps from Heroku](https://12factor.net/)
+- [The Software Architecture Chronicles @hgraca](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)\
+- [Event-Driven Architecture @hgraca](https://herbertograca.com/2017/10/05/event-driven-architecture/)
+- [Event-Driven Architecture @hgraca](https://herbertograca.com/2017/10/05/event-driven-architecture/)
 
 ---
 
