@@ -53,6 +53,7 @@
 - [The Software Architecture Chronicles @hgraca](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)\
 - [Event-Driven Architecture @hgraca](https://herbertograca.com/2017/10/05/event-driven-architecture/)
 - [Event-Driven Architecture @hgraca](https://herbertograca.com/2017/10/05/event-driven-architecture/)
+- [Revisiting the Basics of Domain-Driven Design](https://vladikk.com/2018/01/26/revisiting-the-basics-of-ddd/)
 
 ---
 
